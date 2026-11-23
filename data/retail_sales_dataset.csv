@@ -1,0 +1,1001 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount,Age Group
+1,24-11-2023,CUST001,Male,34,Beauty,3,50,150,Middle age
+2,27-02-2023,CUST002,Female,26,Clothing,2,500,1000,Young
+3,13-01-2023,CUST003,Male,50,Electronics,1,30,30,Old man
+4,21-05-2023,CUST004,Male,37,Clothing,1,500,500,Middle age
+5,06-05-2023,CUST005,Male,30,Beauty,2,50,100,Young
+6,25-04-2023,CUST006,Female,45,Beauty,1,30,30,Middle age
+7,13-03-2023,CUST007,Male,46,Clothing,2,25,50,Old man
+8,22-02-2023,CUST008,Male,30,Electronics,4,25,100,Young
+9,13-12-2023,CUST009,Male,63,Electronics,2,300,600,Old man
+10,07-10-2023,CUST010,Female,52,Clothing,4,50,200,Old man
+11,14-02-2023,CUST011,Male,23,Clothing,2,50,100,Young
+12,30-10-2023,CUST012,Male,35,Beauty,3,25,75,Middle age
+13,05-08-2023,CUST013,Male,22,Electronics,3,500,1500,Young
+14,17-01-2023,CUST014,Male,64,Clothing,4,30,120,Old man
+15,16-01-2023,CUST015,Female,42,Electronics,4,500,2000,Middle age
+16,17-02-2023,CUST016,Male,19,Clothing,3,500,1500,Young
+17,22-04-2023,CUST017,Female,27,Clothing,4,25,100,Young
+18,30-04-2023,CUST018,Female,47,Electronics,2,25,50,Old man
+19,16-09-2023,CUST019,Female,62,Clothing,2,25,50,Old man
+20,05-11-2023,CUST020,Male,22,Clothing,3,300,900,Young
+21,14-01-2023,CUST021,Female,50,Beauty,1,500,500,Old man
+22,15-10-2023,CUST022,Male,18,Clothing,2,50,100,Young
+23,12-04-2023,CUST023,Female,35,Clothing,4,30,120,Middle age
+24,29-11-2023,CUST024,Female,49,Clothing,1,300,300,Old man
+25,26-12-2023,CUST025,Female,64,Beauty,1,50,50,Old man
+26,07-10-2023,CUST026,Female,28,Electronics,2,500,1000,Young
+27,03-08-2023,CUST027,Female,38,Beauty,2,25,50,Middle age
+28,23-04-2023,CUST028,Female,43,Beauty,1,500,500,Middle age
+29,18-08-2023,CUST029,Female,42,Electronics,1,30,30,Middle age
+30,29-10-2023,CUST030,Female,39,Beauty,3,300,900,Middle age
+31,23-05-2023,CUST031,Male,44,Electronics,4,300,1200,Middle age
+32,04-01-2023,CUST032,Male,30,Beauty,3,30,90,Young
+33,23-03-2023,CUST033,Female,50,Electronics,2,50,100,Old man
+34,24-12-2023,CUST034,Female,51,Clothing,3,50,150,Old man
+35,05-08-2023,CUST035,Female,58,Beauty,3,300,900,Old man
+36,24-06-2023,CUST036,Male,52,Beauty,3,300,900,Old man
+37,23-05-2023,CUST037,Female,18,Beauty,3,25,75,Young
+38,21-03-2023,CUST038,Male,38,Beauty,4,50,200,Middle age
+39,21-04-2023,CUST039,Male,23,Clothing,4,30,120,Young
+40,22-06-2023,CUST040,Male,45,Beauty,1,50,50,Middle age
+41,22-02-2023,CUST041,Male,34,Clothing,2,25,50,Middle age
+42,17-02-2023,CUST042,Male,22,Clothing,3,300,900,Young
+43,14-07-2023,CUST043,Female,48,Clothing,1,300,300,Old man
+44,19-02-2023,CUST044,Female,22,Clothing,1,25,25,Young
+45,03-07-2023,CUST045,Female,55,Electronics,1,30,30,Old man
+46,26-06-2023,CUST046,Female,20,Electronics,4,300,1200,Young
+47,06-11-2023,CUST047,Female,40,Beauty,3,500,1500,Middle age
+48,16-05-2023,CUST048,Male,54,Electronics,3,300,900,Old man
+49,23-01-2023,CUST049,Female,54,Electronics,2,500,1000,Old man
+50,24-08-2023,CUST050,Female,27,Beauty,3,25,75,Young
+51,02-10-2023,CUST051,Male,27,Beauty,3,25,75,Young
+52,05-03-2023,CUST052,Female,36,Beauty,1,300,300,Middle age
+53,13-07-2023,CUST053,Male,34,Electronics,2,50,100,Middle age
+54,10-02-2023,CUST054,Female,38,Electronics,3,500,1500,Middle age
+55,10-10-2023,CUST055,Male,31,Beauty,4,30,120,Middle age
+56,31-05-2023,CUST056,Female,26,Clothing,3,300,900,Young
+57,18-11-2023,CUST057,Female,63,Beauty,1,30,30,Old man
+58,13-11-2023,CUST058,Male,18,Clothing,4,300,1200,Young
+59,05-07-2023,CUST059,Male,62,Clothing,1,50,50,Old man
+60,23-10-2023,CUST060,Male,30,Beauty,3,50,150,Young
+61,09-04-2023,CUST061,Male,21,Beauty,4,50,200,Young
+62,27-12-2023,CUST062,Male,18,Beauty,2,50,100,Young
+63,05-02-2023,CUST063,Male,57,Electronics,2,25,50,Old man
+64,24-01-2023,CUST064,Male,49,Clothing,4,25,100,Old man
+65,05-12-2023,CUST065,Male,51,Electronics,4,500,2000,Old man
+66,27-04-2023,CUST066,Female,45,Electronics,1,30,30,Middle age
+67,29-05-2023,CUST067,Female,48,Beauty,4,300,1200,Old man
+68,10-02-2023,CUST068,Male,25,Electronics,1,300,300,Young
+69,30-04-2023,CUST069,Female,56,Beauty,3,25,75,Old man
+70,21-02-2023,CUST070,Female,43,Clothing,1,300,300,Middle age
+71,14-07-2023,CUST071,Female,51,Beauty,4,25,100,Old man
+72,23-05-2023,CUST072,Female,20,Electronics,4,500,2000,Young
+73,21-08-2023,CUST073,Male,29,Electronics,3,30,90,Young
+74,22-11-2023,CUST074,Female,18,Beauty,4,500,2000,Young
+75,06-07-2023,CUST075,Male,61,Beauty,4,50,200,Old man
+76,25-03-2023,CUST076,Female,22,Electronics,2,50,100,Young
+77,09-07-2023,CUST077,Female,47,Clothing,2,50,100,Old man
+78,01-07-2023,CUST078,Female,47,Clothing,3,500,1500,Old man
+79,18-04-2023,CUST079,Male,34,Beauty,1,300,300,Middle age
+80,10-12-2023,CUST080,Female,64,Clothing,2,30,60,Old man
+81,17-05-2023,CUST081,Male,40,Electronics,1,50,50,Middle age
+82,26-12-2023,CUST082,Female,32,Beauty,4,50,200,Middle age
+83,16-12-2023,CUST083,Male,54,Electronics,2,50,100,Old man
+84,28-11-2023,CUST084,Female,38,Electronics,3,30,90,Middle age
+85,06-02-2023,CUST085,Male,31,Clothing,3,50,150,Middle age
+86,08-11-2023,CUST086,Male,19,Beauty,3,30,90,Young
+87,22-11-2023,CUST087,Female,28,Beauty,2,50,100,Young
+88,29-03-2023,CUST088,Male,56,Clothing,1,500,500,Old man
+89,01-10-2023,CUST089,Female,55,Electronics,4,500,2000,Old man
+90,06-05-2023,CUST090,Female,51,Electronics,1,30,30,Old man
+91,25-03-2023,CUST091,Female,55,Electronics,1,500,500,Old man
+92,25-08-2023,CUST092,Female,51,Electronics,4,30,120,Old man
+93,14-07-2023,CUST093,Female,35,Beauty,4,500,2000,Middle age
+94,19-05-2023,CUST094,Female,47,Beauty,2,500,1000,Old man
+95,24-11-2023,CUST095,Female,32,Clothing,2,30,60,Middle age
+96,19-12-2023,CUST096,Female,44,Clothing,2,300,600,Middle age
+97,13-10-2023,CUST097,Female,51,Beauty,2,500,1000,Old man
+98,23-04-2023,CUST098,Female,55,Beauty,2,50,100,Old man
+99,17-12-2023,CUST099,Female,50,Electronics,4,300,1200,Old man
+100,16-06-2023,CUST100,Male,41,Electronics,1,30,30,Middle age
+101,29-01-2023,CUST101,Male,32,Clothing,2,300,600,Middle age
+102,28-04-2023,CUST102,Female,47,Beauty,2,25,50,Old man
+103,17-01-2023,CUST103,Female,59,Clothing,1,25,25,Old man
+104,11-06-2023,CUST104,Female,34,Beauty,2,500,1000,Middle age
+105,25-07-2023,CUST105,Female,22,Electronics,1,500,500,Young
+106,18-05-2023,CUST106,Female,46,Clothing,1,50,50,Old man
+107,03-02-2023,CUST107,Female,21,Clothing,4,300,1200,Young
+108,19-04-2023,CUST108,Female,27,Beauty,3,25,75,Young
+109,18-10-2023,CUST109,Female,34,Electronics,4,500,2000,Middle age
+110,11-06-2023,CUST110,Male,27,Clothing,3,300,900,Young
+111,19-04-2023,CUST111,Female,34,Electronics,3,500,1500,Middle age
+112,02-12-2023,CUST112,Male,37,Clothing,3,500,1500,Middle age
+113,13-09-2023,CUST113,Female,41,Electronics,2,25,50,Middle age
+114,22-07-2023,CUST114,Female,22,Beauty,4,25,100,Young
+115,26-11-2023,CUST115,Male,51,Clothing,3,500,1500,Old man
+116,23-08-2023,CUST116,Female,23,Clothing,1,30,30,Young
+117,15-03-2023,CUST117,Male,19,Electronics,2,500,1000,Young
+118,16-05-2023,CUST118,Female,30,Electronics,4,500,2000,Young
+119,13-03-2023,CUST119,Female,60,Clothing,3,50,150,Old man
+120,07-05-2023,CUST120,Male,60,Beauty,1,50,50,Old man
+121,15-10-2023,CUST121,Female,28,Electronics,4,50,200,Young
+122,03-10-2023,CUST122,Male,64,Electronics,4,30,120,Old man
+123,15-05-2023,CUST123,Female,40,Electronics,2,30,60,Middle age
+124,27-10-2023,CUST124,Male,33,Clothing,4,500,2000,Middle age
+125,08-08-2023,CUST125,Male,48,Clothing,2,50,100,Old man
+126,26-10-2023,CUST126,Female,28,Clothing,3,30,90,Young
+127,24-07-2023,CUST127,Female,33,Clothing,2,25,50,Middle age
+128,05-07-2023,CUST128,Male,25,Beauty,1,500,500,Young
+129,23-04-2023,CUST129,Female,21,Beauty,2,300,600,Young
+130,12-03-2023,CUST130,Female,57,Clothing,1,500,500,Old man
+131,18-09-2023,CUST131,Female,21,Beauty,2,300,600,Young
+132,10-09-2023,CUST132,Male,42,Electronics,4,50,200,Middle age
+133,16-02-2023,CUST133,Male,20,Electronics,3,300,900,Young
+134,25-01-2023,CUST134,Male,49,Electronics,1,50,50,Old man
+135,26-02-2023,CUST135,Male,20,Clothing,2,25,50,Young
+136,20-03-2023,CUST136,Male,44,Electronics,2,300,600,Middle age
+137,18-11-2023,CUST137,Male,46,Beauty,2,500,1000,Old man
+138,23-03-2023,CUST138,Male,49,Clothing,4,50,200,Old man
+139,15-12-2023,CUST139,Male,36,Beauty,4,500,2000,Middle age
+140,05-08-2023,CUST140,Male,38,Electronics,1,30,30,Middle age
+141,02-11-2023,CUST141,Female,22,Electronics,1,50,50,Young
+142,02-02-2023,CUST142,Male,35,Electronics,4,300,1200,Middle age
+143,17-07-2023,CUST143,Female,45,Clothing,1,50,50,Middle age
+144,15-07-2023,CUST144,Female,59,Beauty,3,500,1500,Old man
+145,02-11-2023,CUST145,Female,39,Clothing,3,25,75,Middle age
+146,28-08-2023,CUST146,Male,38,Clothing,4,50,200,Middle age
+147,28-09-2023,CUST147,Male,23,Electronics,1,300,300,Young
+148,09-05-2023,CUST148,Male,18,Clothing,2,30,60,Young
+149,11-10-2023,CUST149,Male,22,Clothing,3,25,75,Young
+150,06-01-2023,CUST150,Female,58,Electronics,4,30,120,Old man
+151,15-12-2023,CUST151,Male,29,Clothing,1,50,50,Young
+152,28-02-2023,CUST152,Male,43,Electronics,4,500,2000,Middle age
+153,16-12-2023,CUST153,Male,63,Electronics,2,500,1000,Old man
+154,02-10-2023,CUST154,Male,51,Electronics,3,300,900,Old man
+155,17-05-2023,CUST155,Male,31,Electronics,4,500,2000,Middle age
+156,25-11-2023,CUST156,Female,43,Clothing,4,25,100,Middle age
+157,24-06-2023,CUST157,Male,62,Electronics,4,500,2000,Old man
+158,27-02-2023,CUST158,Female,44,Electronics,2,300,600,Middle age
+159,31-05-2023,CUST159,Male,26,Clothing,4,50,200,Young
+160,11-08-2023,CUST160,Female,43,Clothing,2,50,100,Middle age
+161,22-03-2023,CUST161,Male,64,Beauty,2,500,1000,Old man
+162,21-08-2023,CUST162,Male,39,Clothing,2,30,60,Middle age
+163,02-01-2023,CUST163,Female,64,Clothing,3,50,150,Old man
+164,15-05-2023,CUST164,Female,47,Beauty,3,500,1500,Old man
+165,14-09-2023,CUST165,Female,60,Clothing,4,300,1200,Old man
+166,02-04-2023,CUST166,Male,34,Clothing,4,500,2000,Middle age
+167,17-09-2023,CUST167,Female,43,Clothing,3,50,150,Middle age
+168,24-02-2023,CUST168,Male,53,Clothing,1,300,300,Old man
+169,17-11-2023,CUST169,Male,18,Beauty,3,500,1500,Young
+170,02-06-2023,CUST170,Female,25,Clothing,2,25,50,Young
+171,24-11-2023,CUST171,Female,52,Clothing,3,300,900,Old man
+172,17-09-2023,CUST172,Male,32,Beauty,2,25,50,Middle age
+173,08-11-2023,CUST173,Male,64,Electronics,4,30,120,Old man
+174,12-04-2023,CUST174,Female,39,Beauty,1,300,300,Middle age
+175,20-03-2023,CUST175,Female,31,Electronics,4,25,100,Middle age
+176,11-07-2023,CUST176,Female,43,Beauty,2,50,100,Middle age
+177,24-03-2023,CUST177,Male,45,Beauty,2,50,100,Middle age
+178,04-10-2023,CUST178,Male,40,Clothing,2,30,60,Middle age
+179,29-09-2023,CUST179,Male,31,Electronics,1,300,300,Middle age
+180,01-01-2023,CUST180,Male,41,Clothing,3,300,900,Middle age
+181,03-11-2023,CUST181,Male,19,Electronics,4,300,1200,Young
+182,15-06-2023,CUST182,Male,62,Beauty,4,30,120,Old man
+183,08-09-2023,CUST183,Female,43,Beauty,3,300,900,Middle age
+184,10-01-2023,CUST184,Male,31,Electronics,4,50,200,Middle age
+185,27-02-2023,CUST185,Male,24,Clothing,1,25,25,Young
+186,05-07-2023,CUST186,Male,20,Clothing,4,50,200,Young
+187,07-06-2023,CUST187,Female,64,Clothing,2,50,100,Old man
+188,03-05-2023,CUST188,Male,40,Clothing,3,25,75,Middle age
+189,30-01-2023,CUST189,Male,63,Beauty,1,50,50,Old man
+190,04-05-2023,CUST190,Female,60,Beauty,3,30,90,Old man
+191,18-10-2023,CUST191,Male,64,Beauty,1,25,25,Old man
+192,10-02-2023,CUST192,Male,62,Beauty,2,50,100,Old man
+193,13-02-2023,CUST193,Male,35,Beauty,3,500,1500,Middle age
+194,06-09-2023,CUST194,Male,55,Clothing,4,50,200,Old man
+195,05-02-2023,CUST195,Male,52,Clothing,1,30,30,Old man
+196,30-09-2023,CUST196,Female,32,Clothing,3,300,900,Middle age
+197,06-03-2023,CUST197,Female,42,Clothing,4,50,200,Middle age
+198,07-03-2023,CUST198,Female,54,Beauty,3,300,900,Old man
+199,04-12-2023,CUST199,Male,45,Beauty,3,500,1500,Middle age
+200,01-09-2023,CUST200,Male,27,Beauty,3,50,150,Young
+201,09-10-2023,CUST201,Male,56,Electronics,1,25,25,Old man
+202,26-03-2023,CUST202,Female,34,Clothing,4,300,1200,Middle age
+203,16-05-2023,CUST203,Male,56,Clothing,2,500,1000,Old man
+204,28-09-2023,CUST204,Male,39,Beauty,1,25,25,Middle age
+205,07-11-2023,CUST205,Female,43,Clothing,1,25,25,Middle age
+206,05-08-2023,CUST206,Male,61,Clothing,1,25,25,Old man
+207,19-04-2023,CUST207,Female,42,Beauty,2,25,50,Middle age
+208,04-10-2023,CUST208,Female,34,Electronics,4,50,200,Middle age
+209,20-12-2023,CUST209,Female,30,Electronics,4,50,200,Young
+210,13-04-2023,CUST210,Male,37,Electronics,4,50,200,Middle age
+211,01-01-2024,CUST211,Male,42,Beauty,3,500,1500,Middle age
+212,09-06-2023,CUST212,Male,21,Clothing,3,500,1500,Young
+213,24-07-2023,CUST213,Male,27,Beauty,3,500,1500,Young
+214,10-12-2023,CUST214,Male,20,Beauty,2,30,60,Young
+215,29-11-2023,CUST215,Male,58,Clothing,3,500,1500,Old man
+216,11-07-2023,CUST216,Male,62,Electronics,2,50,100,Old man
+217,13-08-2023,CUST217,Female,35,Electronics,4,50,200,Middle age
+218,22-09-2023,CUST218,Male,64,Beauty,3,30,90,Old man
+219,20-08-2023,CUST219,Female,53,Electronics,3,30,90,Old man
+220,03-03-2023,CUST220,Male,64,Beauty,1,500,500,Old man
+221,07-05-2023,CUST221,Male,39,Beauty,2,300,600,Middle age
+222,26-04-2023,CUST222,Male,51,Clothing,4,30,120,Old man
+223,02-02-2023,CUST223,Female,64,Clothing,1,25,25,Old man
+224,23-06-2023,CUST224,Female,25,Clothing,1,50,50,Young
+225,11-01-2023,CUST225,Female,57,Beauty,4,25,100,Old man
+226,29-10-2023,CUST226,Female,61,Clothing,1,50,50,Old man
+227,11-10-2023,CUST227,Male,36,Electronics,2,50,100,Middle age
+228,28-04-2023,CUST228,Female,59,Electronics,2,30,60,Old man
+229,29-10-2023,CUST229,Male,58,Beauty,3,30,90,Old man
+230,23-04-2023,CUST230,Male,54,Beauty,1,25,25,Old man
+231,04-01-2023,CUST231,Female,23,Clothing,3,50,150,Young
+232,06-02-2023,CUST232,Female,43,Beauty,1,25,25,Middle age
+233,29-12-2023,CUST233,Female,51,Beauty,2,300,600,Old man
+234,20-11-2023,CUST234,Female,62,Electronics,2,25,50,Old man
+235,31-01-2023,CUST235,Female,23,Electronics,2,500,1000,Young
+236,28-04-2023,CUST236,Female,54,Clothing,1,25,25,Old man
+237,04-02-2023,CUST237,Female,50,Beauty,2,500,1000,Old man
+238,17-01-2023,CUST238,Female,39,Beauty,1,500,500,Middle age
+239,19-06-2023,CUST239,Male,38,Electronics,3,500,1500,Middle age
+240,06-02-2023,CUST240,Female,23,Beauty,1,300,300,Young
+241,21-09-2023,CUST241,Female,23,Electronics,3,25,75,Young
+242,02-05-2023,CUST242,Male,21,Clothing,1,25,25,Young
+243,23-05-2023,CUST243,Female,47,Electronics,3,300,900,Old man
+244,09-12-2023,CUST244,Male,28,Beauty,2,50,100,Young
+245,06-09-2023,CUST245,Male,47,Clothing,3,30,90,Old man
+246,20-04-2023,CUST246,Female,48,Electronics,2,25,50,Old man
+247,04-10-2023,CUST247,Male,41,Electronics,2,30,60,Middle age
+248,09-03-2023,CUST248,Male,26,Clothing,3,300,900,Young
+249,20-10-2023,CUST249,Male,20,Clothing,1,50,50,Young
+250,23-10-2023,CUST250,Male,48,Electronics,1,50,50,Old man
+251,31-08-2023,CUST251,Female,57,Beauty,4,50,200,Old man
+252,05-05-2023,CUST252,Male,54,Electronics,1,300,300,Old man
+253,31-08-2023,CUST253,Female,53,Clothing,4,500,2000,Old man
+254,28-07-2023,CUST254,Male,41,Electronics,1,500,500,Middle age
+255,08-04-2023,CUST255,Male,48,Clothing,1,30,30,Old man
+256,18-02-2023,CUST256,Male,23,Clothing,2,500,1000,Young
+257,19-02-2023,CUST257,Male,19,Beauty,4,500,2000,Young
+258,04-12-2023,CUST258,Female,37,Clothing,1,50,50,Middle age
+259,09-08-2023,CUST259,Female,45,Clothing,4,50,200,Middle age
+260,01-07-2023,CUST260,Male,28,Beauty,2,30,60,Young
+261,05-08-2023,CUST261,Male,21,Clothing,2,25,50,Young
+262,30-07-2023,CUST262,Female,32,Beauty,4,30,120,Middle age
+263,28-08-2023,CUST263,Male,23,Beauty,2,30,60,Young
+264,28-01-2023,CUST264,Male,47,Clothing,3,300,900,Old man
+265,11-12-2023,CUST265,Male,55,Clothing,3,300,900,Old man
+266,01-12-2023,CUST266,Female,19,Electronics,2,30,60,Young
+267,27-11-2023,CUST267,Female,32,Beauty,3,30,90,Middle age
+268,20-02-2023,CUST268,Female,28,Electronics,1,30,30,Young
+269,01-02-2023,CUST269,Male,25,Clothing,4,500,2000,Young
+270,26-07-2023,CUST270,Male,43,Electronics,1,300,300,Middle age
+271,23-06-2023,CUST271,Female,62,Beauty,4,30,120,Old man
+272,25-02-2023,CUST272,Female,61,Electronics,2,50,100,Old man
+273,08-05-2023,CUST273,Female,22,Beauty,1,50,50,Young
+274,09-04-2023,CUST274,Female,23,Clothing,2,500,1000,Young
+275,08-04-2023,CUST275,Male,43,Clothing,2,500,1000,Middle age
+276,02-10-2023,CUST276,Female,21,Beauty,4,25,100,Young
+277,18-08-2023,CUST277,Male,36,Clothing,4,25,100,Middle age
+278,13-03-2023,CUST278,Female,37,Clothing,4,25,100,Middle age
+279,05-08-2023,CUST279,Male,50,Clothing,1,500,500,Old man
+280,04-04-2023,CUST280,Female,37,Clothing,3,500,1500,Middle age
+281,23-05-2023,CUST281,Female,29,Beauty,4,500,2000,Young
+282,25-08-2023,CUST282,Female,64,Electronics,4,50,200,Old man
+283,08-05-2023,CUST283,Female,18,Electronics,1,500,500,Young
+284,08-02-2023,CUST284,Male,43,Clothing,4,50,200,Middle age
+285,15-08-2023,CUST285,Female,31,Electronics,1,25,25,Middle age
+286,09-10-2023,CUST286,Male,55,Electronics,2,25,50,Old man
+287,20-02-2023,CUST287,Male,54,Clothing,4,25,100,Old man
+288,26-01-2023,CUST288,Male,28,Clothing,4,30,120,Young
+289,30-11-2023,CUST289,Male,53,Electronics,2,30,60,Old man
+290,04-10-2023,CUST290,Female,30,Beauty,2,300,600,Young
+291,08-01-2023,CUST291,Male,60,Clothing,2,300,600,Old man
+292,17-02-2023,CUST292,Male,20,Beauty,4,300,1200,Young
+293,02-05-2023,CUST293,Male,50,Electronics,3,30,90,Old man
+294,27-03-2023,CUST294,Female,23,Clothing,3,30,90,Young
+295,28-07-2023,CUST295,Female,27,Beauty,3,300,900,Young
+296,06-09-2023,CUST296,Female,22,Clothing,4,300,1200,Young
+297,04-09-2023,CUST297,Female,40,Electronics,2,500,1000,Middle age
+298,20-04-2023,CUST298,Male,27,Beauty,4,300,1200,Young
+299,25-07-2023,CUST299,Male,61,Electronics,2,500,1000,Old man
+300,31-01-2023,CUST300,Female,19,Electronics,4,50,200,Young
+301,26-03-2023,CUST301,Male,30,Clothing,4,30,120,Young
+302,14-07-2023,CUST302,Male,57,Beauty,2,300,600,Old man
+303,02-01-2023,CUST303,Male,19,Electronics,3,30,90,Young
+304,19-07-2023,CUST304,Female,37,Electronics,2,30,60,Middle age
+305,16-05-2023,CUST305,Female,18,Beauty,1,30,30,Young
+306,21-08-2023,CUST306,Male,54,Electronics,1,50,50,Old man
+307,27-05-2023,CUST307,Female,26,Electronics,2,25,50,Young
+308,05-08-2023,CUST308,Female,34,Beauty,4,300,1200,Middle age
+309,23-12-2023,CUST309,Female,26,Beauty,1,25,25,Young
+310,12-10-2023,CUST310,Female,28,Beauty,1,25,25,Young
+311,05-12-2023,CUST311,Female,32,Beauty,4,25,100,Middle age
+312,07-09-2023,CUST312,Male,41,Clothing,4,30,120,Middle age
+313,21-03-2023,CUST313,Female,55,Beauty,3,500,1500,Old man
+314,08-04-2023,CUST314,Male,52,Clothing,4,30,120,Old man
+315,01-06-2023,CUST315,Male,47,Clothing,2,30,60,Old man
+316,22-04-2023,CUST316,Female,48,Clothing,2,25,50,Old man
+317,30-01-2023,CUST317,Male,22,Electronics,3,30,90,Young
+318,24-10-2023,CUST318,Male,61,Clothing,1,25,25,Old man
+319,05-10-2023,CUST319,Male,31,Clothing,1,500,500,Middle age
+320,01-02-2023,CUST320,Female,28,Electronics,4,300,1200,Young
+321,10-06-2023,CUST321,Female,26,Electronics,2,25,50,Young
+322,30-01-2023,CUST322,Male,51,Electronics,1,500,500,Old man
+323,26-01-2023,CUST323,Female,29,Beauty,3,300,900,Young
+324,27-10-2023,CUST324,Female,52,Electronics,3,50,150,Old man
+325,02-09-2023,CUST325,Female,52,Electronics,2,25,50,Old man
+326,15-09-2023,CUST326,Female,18,Clothing,3,25,75,Young
+327,29-09-2023,CUST327,Male,57,Electronics,3,50,150,Old man
+328,22-03-2023,CUST328,Male,39,Beauty,2,50,100,Middle age
+329,30-01-2023,CUST329,Female,46,Electronics,4,25,100,Old man
+330,18-09-2023,CUST330,Female,25,Beauty,4,50,200,Young
+331,11-02-2023,CUST331,Male,28,Electronics,3,30,90,Young
+332,06-04-2023,CUST332,Male,58,Electronics,4,300,1200,Old man
+333,05-02-2023,CUST333,Female,54,Electronics,4,300,1200,Old man
+334,01-11-2023,CUST334,Male,31,Electronics,3,300,900,Middle age
+335,04-02-2023,CUST335,Female,47,Beauty,4,30,120,Old man
+336,12-12-2023,CUST336,Female,52,Beauty,3,50,150,Old man
+337,01-05-2023,CUST337,Male,38,Clothing,1,500,500,Middle age
+338,26-07-2023,CUST338,Male,54,Beauty,2,50,100,Old man
+339,03-03-2023,CUST339,Female,22,Electronics,2,25,50,Young
+340,19-10-2023,CUST340,Female,36,Clothing,4,300,1200,Middle age
+341,07-05-2023,CUST341,Male,31,Clothing,4,50,200,Middle age
+342,24-10-2023,CUST342,Female,43,Clothing,4,500,2000,Middle age
+343,01-11-2023,CUST343,Male,21,Electronics,2,25,50,Young
+344,21-01-2023,CUST344,Female,42,Beauty,1,30,30,Middle age
+345,14-11-2023,CUST345,Male,62,Electronics,1,30,30,Old man
+346,11-02-2023,CUST346,Male,59,Clothing,2,500,1000,Old man
+347,03-08-2023,CUST347,Male,42,Electronics,1,25,25,Middle age
+348,03-12-2023,CUST348,Female,35,Electronics,2,300,600,Middle age
+349,26-10-2023,CUST349,Female,57,Beauty,1,50,50,Old man
+350,17-10-2023,CUST350,Male,25,Beauty,3,25,75,Young
+351,25-09-2023,CUST351,Female,56,Clothing,3,30,90,Old man
+352,11-06-2023,CUST352,Male,57,Electronics,2,500,1000,Old man
+353,14-05-2023,CUST353,Male,31,Electronics,1,500,500,Middle age
+354,15-04-2023,CUST354,Female,49,Beauty,4,50,200,Old man
+355,09-12-2023,CUST355,Female,55,Electronics,1,500,500,Old man
+356,10-06-2023,CUST356,Male,50,Electronics,3,500,1500,Old man
+357,03-05-2023,CUST357,Female,40,Electronics,3,25,75,Middle age
+358,16-05-2023,CUST358,Female,32,Beauty,1,300,300,Middle age
+359,22-07-2023,CUST359,Male,50,Clothing,1,50,50,Old man
+360,09-03-2023,CUST360,Male,42,Clothing,4,25,100,Middle age
+361,10-12-2023,CUST361,Female,34,Electronics,4,300,1200,Middle age
+362,27-11-2023,CUST362,Male,50,Clothing,1,25,25,Old man
+363,03-06-2023,CUST363,Male,64,Beauty,1,25,25,Old man
+364,23-08-2023,CUST364,Female,19,Beauty,1,500,500,Young
+365,11-06-2023,CUST365,Male,31,Clothing,1,300,300,Middle age
+366,07-02-2023,CUST366,Male,57,Clothing,2,50,100,Old man
+367,05-01-2023,CUST367,Female,57,Electronics,1,50,50,Old man
+368,23-08-2023,CUST368,Female,56,Clothing,4,300,1200,Old man
+369,15-11-2023,CUST369,Male,23,Electronics,3,500,1500,Young
+370,16-10-2023,CUST370,Male,23,Electronics,2,30,60,Young
+371,21-02-2023,CUST371,Female,20,Beauty,1,25,25,Young
+372,07-02-2023,CUST372,Female,24,Beauty,3,500,1500,Young
+373,03-10-2023,CUST373,Female,25,Beauty,2,300,600,Young
+374,20-04-2023,CUST374,Female,59,Beauty,3,25,75,Old man
+375,17-09-2023,CUST375,Male,32,Clothing,1,50,50,Middle age
+376,16-05-2023,CUST376,Female,64,Beauty,1,30,30,Old man
+377,09-03-2023,CUST377,Female,46,Clothing,4,50,200,Old man
+378,28-06-2023,CUST378,Male,50,Beauty,1,300,300,Old man
+379,05-02-2023,CUST379,Female,47,Clothing,1,25,25,Old man
+380,06-05-2023,CUST380,Male,56,Electronics,2,300,600,Old man
+381,09-07-2023,CUST381,Female,44,Clothing,4,25,100,Middle age
+382,26-05-2023,CUST382,Female,53,Clothing,2,500,1000,Old man
+383,22-03-2023,CUST383,Female,46,Beauty,3,30,90,Old man
+384,13-08-2023,CUST384,Male,55,Clothing,1,500,500,Old man
+385,06-10-2023,CUST385,Male,50,Electronics,3,500,1500,Old man
+386,27-12-2023,CUST386,Female,54,Electronics,2,300,600,Old man
+387,04-06-2023,CUST387,Male,44,Beauty,1,30,30,Middle age
+388,10-11-2023,CUST388,Male,50,Electronics,1,25,25,Old man
+389,01-12-2023,CUST389,Male,21,Clothing,2,25,50,Young
+390,28-09-2023,CUST390,Male,39,Electronics,2,50,100,Middle age
+391,05-01-2023,CUST391,Male,19,Beauty,2,25,50,Young
+392,08-12-2023,CUST392,Male,27,Clothing,2,300,600,Young
+393,11-10-2023,CUST393,Female,22,Beauty,2,500,1000,Young
+394,03-06-2023,CUST394,Female,27,Clothing,1,500,500,Young
+395,06-12-2023,CUST395,Male,50,Electronics,2,500,1000,Old man
+396,23-02-2023,CUST396,Female,55,Beauty,1,30,30,Old man
+397,10-03-2023,CUST397,Female,30,Beauty,1,25,25,Young
+398,16-05-2023,CUST398,Female,48,Clothing,2,300,600,Old man
+399,01-03-2023,CUST399,Female,64,Beauty,2,30,60,Old man
+400,24-02-2023,CUST400,Male,53,Clothing,4,50,200,Old man
+401,11-10-2023,CUST401,Female,62,Clothing,1,300,300,Old man
+402,21-03-2023,CUST402,Female,41,Clothing,2,300,600,Middle age
+403,20-05-2023,CUST403,Male,32,Clothing,2,300,600,Middle age
+404,25-05-2023,CUST404,Male,46,Electronics,2,500,1000,Old man
+405,06-11-2023,CUST405,Female,25,Clothing,4,300,1200,Young
+406,18-04-2023,CUST406,Female,22,Beauty,4,25,100,Young
+407,25-06-2023,CUST407,Female,46,Electronics,3,300,900,Old man
+408,15-04-2023,CUST408,Female,64,Beauty,1,500,500,Old man
+409,18-12-2023,CUST409,Female,21,Electronics,3,300,900,Young
+410,21-11-2023,CUST410,Female,29,Clothing,2,50,100,Young
+411,16-05-2023,CUST411,Male,62,Electronics,4,50,200,Old man
+412,16-09-2023,CUST412,Female,19,Electronics,4,500,2000,Young
+413,08-09-2023,CUST413,Female,44,Beauty,3,25,75,Middle age
+414,09-05-2023,CUST414,Male,48,Beauty,4,25,100,Old man
+415,27-01-2023,CUST415,Male,53,Clothing,2,30,60,Old man
+416,17-02-2023,CUST416,Male,53,Electronics,4,500,2000,Old man
+417,21-11-2023,CUST417,Male,43,Electronics,3,300,900,Middle age
+418,05-08-2023,CUST418,Female,60,Electronics,2,500,1000,Old man
+419,22-05-2023,CUST419,Female,44,Clothing,3,30,90,Middle age
+420,23-01-2023,CUST420,Female,22,Clothing,4,500,2000,Young
+421,02-01-2023,CUST421,Female,37,Clothing,3,500,1500,Middle age
+422,20-06-2023,CUST422,Female,28,Clothing,3,30,90,Young
+423,08-03-2023,CUST423,Female,27,Clothing,1,25,25,Young
+424,23-11-2023,CUST424,Male,57,Beauty,4,300,1200,Old man
+425,15-05-2023,CUST425,Female,55,Electronics,4,30,120,Old man
+426,24-03-2023,CUST426,Male,23,Electronics,3,50,150,Young
+427,15-08-2023,CUST427,Male,25,Electronics,1,25,25,Young
+428,10-10-2023,CUST428,Female,40,Electronics,4,50,200,Middle age
+429,28-12-2023,CUST429,Male,64,Electronics,2,25,50,Old man
+430,07-08-2023,CUST430,Female,43,Electronics,3,300,900,Middle age
+431,15-10-2023,CUST431,Male,63,Electronics,4,300,1200,Old man
+432,05-01-2023,CUST432,Female,60,Electronics,2,500,1000,Old man
+433,27-02-2023,CUST433,Male,29,Beauty,4,50,200,Young
+434,08-02-2023,CUST434,Female,43,Electronics,2,25,50,Middle age
+435,20-12-2023,CUST435,Female,30,Beauty,3,300,900,Young
+436,18-03-2023,CUST436,Female,57,Clothing,4,30,120,Old man
+437,07-10-2023,CUST437,Female,35,Electronics,4,300,1200,Middle age
+438,19-01-2023,CUST438,Female,42,Clothing,1,30,30,Middle age
+439,09-07-2023,CUST439,Male,50,Clothing,3,25,75,Old man
+440,26-10-2023,CUST440,Male,64,Clothing,2,300,600,Old man
+441,10-10-2023,CUST441,Male,57,Beauty,4,300,1200,Old man
+442,17-03-2023,CUST442,Female,60,Clothing,4,25,100,Old man
+443,09-08-2023,CUST443,Male,29,Clothing,2,300,600,Young
+444,07-03-2023,CUST444,Female,61,Clothing,3,30,90,Old man
+445,22-01-2023,CUST445,Female,53,Electronics,1,300,300,Old man
+446,07-06-2023,CUST446,Male,21,Electronics,1,50,50,Young
+447,06-07-2023,CUST447,Male,22,Beauty,4,500,2000,Young
+448,21-01-2023,CUST448,Female,54,Beauty,2,30,60,Old man
+449,03-07-2023,CUST449,Male,25,Electronics,4,50,200,Young
+450,18-04-2023,CUST450,Female,59,Beauty,2,25,50,Old man
+451,16-12-2023,CUST451,Female,45,Electronics,1,30,30,Middle age
+452,08-05-2023,CUST452,Female,48,Clothing,3,500,1500,Old man
+453,08-12-2023,CUST453,Female,26,Clothing,2,500,1000,Young
+454,22-02-2023,CUST454,Female,46,Beauty,1,25,25,Old man
+455,01-07-2023,CUST455,Male,31,Electronics,4,25,100,Middle age
+456,14-10-2023,CUST456,Male,57,Electronics,2,30,60,Old man
+457,28-07-2023,CUST457,Female,58,Beauty,3,300,900,Old man
+458,14-11-2023,CUST458,Female,39,Electronics,4,25,100,Middle age
+459,21-03-2023,CUST459,Male,28,Clothing,4,300,1200,Young
+460,02-05-2023,CUST460,Male,40,Beauty,1,50,50,Middle age
+461,25-03-2023,CUST461,Female,18,Beauty,2,500,1000,Young
+462,01-04-2023,CUST462,Male,63,Electronics,4,300,1200,Old man
+463,31-07-2023,CUST463,Female,54,Beauty,3,500,1500,Old man
+464,13-01-2023,CUST464,Male,38,Electronics,2,300,600,Middle age
+465,02-04-2023,CUST465,Female,43,Electronics,3,50,150,Middle age
+466,20-06-2023,CUST466,Male,63,Electronics,4,25,100,Old man
+467,30-07-2023,CUST467,Female,53,Electronics,3,50,150,Old man
+468,09-12-2023,CUST468,Male,40,Electronics,1,25,25,Middle age
+469,08-05-2023,CUST469,Male,18,Beauty,3,25,75,Young
+470,17-05-2023,CUST470,Female,57,Clothing,2,500,1000,Old man
+471,23-03-2023,CUST471,Male,32,Clothing,3,50,150,Middle age
+472,26-12-2023,CUST472,Female,38,Beauty,3,300,900,Middle age
+473,25-02-2023,CUST473,Male,64,Beauty,1,50,50,Old man
+474,15-07-2023,CUST474,Female,26,Clothing,3,500,1500,Young
+475,20-01-2023,CUST475,Male,26,Clothing,3,25,75,Young
+476,29-08-2023,CUST476,Female,27,Clothing,4,500,2000,Young
+477,24-04-2023,CUST477,Male,43,Clothing,4,30,120,Middle age
+478,13-04-2023,CUST478,Female,58,Clothing,2,30,60,Old man
+479,24-08-2023,CUST479,Male,52,Electronics,4,300,1200,Old man
+480,29-06-2023,CUST480,Female,42,Beauty,4,500,2000,Middle age
+481,06-06-2023,CUST481,Female,43,Electronics,4,300,1200,Middle age
+482,27-04-2023,CUST482,Female,28,Clothing,4,300,1200,Young
+483,25-04-2023,CUST483,Male,55,Clothing,1,30,30,Old man
+484,13-01-2023,CUST484,Female,19,Clothing,4,300,1200,Young
+485,04-12-2023,CUST485,Male,24,Electronics,1,30,30,Young
+486,09-04-2023,CUST486,Female,35,Electronics,1,25,25,Middle age
+487,24-07-2023,CUST487,Male,44,Clothing,4,500,2000,Middle age
+488,18-06-2023,CUST488,Female,51,Electronics,3,300,900,Old man
+489,23-05-2023,CUST489,Male,44,Electronics,1,30,30,Middle age
+490,05-02-2023,CUST490,Male,34,Clothing,3,50,150,Middle age
+491,23-05-2023,CUST491,Female,60,Electronics,3,300,900,Old man
+492,29-06-2023,CUST492,Male,61,Beauty,4,25,100,Old man
+493,25-11-2023,CUST493,Male,41,Beauty,2,25,50,Middle age
+494,18-09-2023,CUST494,Female,42,Beauty,4,50,200,Middle age
+495,24-07-2023,CUST495,Male,24,Beauty,2,30,60,Young
+496,14-12-2023,CUST496,Male,23,Clothing,2,300,600,Young
+497,02-10-2023,CUST497,Male,41,Clothing,4,30,120,Middle age
+498,19-06-2023,CUST498,Female,50,Clothing,4,25,100,Old man
+499,15-01-2023,CUST499,Male,46,Beauty,2,30,60,Old man
+500,01-03-2023,CUST500,Female,60,Beauty,4,25,100,Old man
+501,14-05-2023,CUST501,Male,39,Electronics,2,30,60,Middle age
+502,02-04-2023,CUST502,Male,43,Electronics,3,50,150,Middle age
+503,25-10-2023,CUST503,Male,45,Beauty,4,500,2000,Middle age
+504,16-05-2023,CUST504,Female,38,Beauty,3,50,150,Middle age
+505,20-01-2023,CUST505,Male,24,Beauty,1,50,50,Young
+506,25-02-2023,CUST506,Male,34,Beauty,3,500,1500,Middle age
+507,02-11-2023,CUST507,Female,37,Electronics,3,500,1500,Middle age
+508,11-08-2023,CUST508,Male,58,Beauty,2,300,600,Old man
+509,26-06-2023,CUST509,Female,37,Electronics,3,300,900,Middle age
+510,10-06-2023,CUST510,Female,39,Beauty,4,50,200,Middle age
+511,12-08-2023,CUST511,Male,45,Beauty,2,50,100,Middle age
+512,07-11-2023,CUST512,Female,57,Beauty,1,25,25,Old man
+513,19-09-2023,CUST513,Male,24,Electronics,4,25,100,Young
+514,01-03-2023,CUST514,Female,18,Electronics,1,300,300,Young
+515,17-07-2023,CUST515,Female,49,Clothing,3,300,900,Old man
+516,23-10-2023,CUST516,Male,30,Beauty,4,25,100,Young
+517,08-04-2023,CUST517,Female,47,Clothing,4,25,100,Old man
+518,11-05-2023,CUST518,Female,40,Clothing,1,30,30,Middle age
+519,23-01-2023,CUST519,Female,36,Electronics,4,30,120,Middle age
+520,29-12-2023,CUST520,Female,49,Electronics,4,25,100,Old man
+521,12-08-2023,CUST521,Female,47,Clothing,4,30,120,Old man
+522,01-01-2023,CUST522,Male,46,Beauty,3,500,1500,Old man
+523,24-09-2023,CUST523,Female,62,Electronics,1,300,300,Old man
+524,03-10-2023,CUST524,Male,46,Beauty,4,300,1200,Old man
+525,18-12-2023,CUST525,Female,47,Beauty,2,25,50,Old man
+526,10-12-2023,CUST526,Male,33,Clothing,2,50,100,Middle age
+527,11-04-2023,CUST527,Male,57,Clothing,2,25,50,Old man
+528,06-07-2023,CUST528,Female,36,Clothing,2,30,60,Middle age
+529,09-08-2023,CUST529,Female,35,Clothing,3,50,150,Middle age
+530,05-02-2023,CUST530,Female,18,Electronics,4,30,120,Young
+531,07-12-2023,CUST531,Male,31,Electronics,1,500,500,Middle age
+532,19-06-2023,CUST532,Female,64,Clothing,4,30,120,Old man
+533,16-11-2023,CUST533,Male,19,Electronics,3,500,1500,Young
+534,10-06-2023,CUST534,Male,45,Clothing,2,500,1000,Middle age
+535,06-12-2023,CUST535,Male,47,Beauty,3,30,90,Old man
+536,05-03-2023,CUST536,Female,55,Beauty,4,30,120,Old man
+537,03-06-2023,CUST537,Female,21,Beauty,1,500,500,Young
+538,17-09-2023,CUST538,Male,18,Clothing,3,50,150,Young
+539,08-06-2023,CUST539,Male,25,Beauty,1,500,500,Young
+540,08-12-2023,CUST540,Female,46,Electronics,3,300,900,Old man
+541,29-07-2023,CUST541,Male,56,Beauty,1,500,500,Old man
+542,17-06-2023,CUST542,Female,20,Beauty,1,50,50,Young
+543,26-07-2023,CUST543,Male,49,Beauty,2,300,600,Old man
+544,23-12-2023,CUST544,Female,27,Electronics,1,25,25,Young
+545,01-06-2023,CUST545,Male,27,Clothing,2,25,50,Young
+546,11-10-2023,CUST546,Female,36,Electronics,4,50,200,Middle age
+547,07-03-2023,CUST547,Male,63,Clothing,4,500,2000,Old man
+548,09-04-2023,CUST548,Female,51,Clothing,2,30,60,Old man
+549,04-08-2023,CUST549,Female,50,Beauty,2,50,100,Old man
+550,07-12-2023,CUST550,Male,40,Clothing,3,300,900,Middle age
+551,14-07-2023,CUST551,Male,45,Electronics,3,300,900,Middle age
+552,13-12-2023,CUST552,Female,49,Electronics,3,25,75,Old man
+553,31-03-2023,CUST553,Male,24,Clothing,4,300,1200,Young
+554,12-11-2023,CUST554,Female,46,Beauty,3,50,150,Old man
+555,19-10-2023,CUST555,Male,25,Beauty,1,300,300,Young
+556,04-06-2023,CUST556,Female,18,Electronics,1,50,50,Young
+557,27-07-2023,CUST557,Female,20,Beauty,3,30,90,Young
+558,08-10-2023,CUST558,Female,41,Clothing,1,25,25,Middle age
+559,01-01-2023,CUST559,Female,40,Clothing,4,300,1200,Middle age
+560,05-06-2023,CUST560,Female,25,Electronics,1,50,50,Young
+561,27-05-2023,CUST561,Female,64,Clothing,4,500,2000,Old man
+562,18-04-2023,CUST562,Male,54,Electronics,2,25,50,Old man
+563,09-08-2023,CUST563,Male,20,Clothing,2,30,60,Young
+564,24-10-2023,CUST564,Male,50,Electronics,2,50,100,Old man
+565,07-11-2023,CUST565,Female,45,Beauty,2,30,60,Middle age
+566,02-12-2023,CUST566,Female,64,Clothing,1,30,30,Old man
+567,14-06-2023,CUST567,Female,25,Clothing,3,300,900,Young
+568,27-08-2023,CUST568,Female,51,Electronics,1,300,300,Old man
+569,15-08-2023,CUST569,Male,52,Electronics,4,50,200,Old man
+570,15-08-2023,CUST570,Male,49,Clothing,1,500,500,Old man
+571,12-12-2023,CUST571,Female,41,Electronics,1,50,50,Middle age
+572,20-04-2023,CUST572,Male,31,Clothing,4,500,2000,Middle age
+573,19-09-2023,CUST573,Male,49,Beauty,2,30,60,Old man
+574,31-08-2023,CUST574,Female,63,Electronics,2,25,50,Old man
+575,28-03-2023,CUST575,Male,60,Clothing,2,50,100,Old man
+576,04-12-2023,CUST576,Female,33,Beauty,3,50,150,Middle age
+577,13-02-2023,CUST577,Male,21,Beauty,4,500,2000,Young
+578,26-05-2023,CUST578,Female,54,Clothing,4,30,120,Old man
+579,21-09-2023,CUST579,Female,38,Electronics,1,30,30,Middle age
+580,06-12-2023,CUST580,Female,31,Clothing,3,500,1500,Middle age
+581,21-11-2023,CUST581,Female,48,Beauty,2,30,60,Old man
+582,14-11-2023,CUST582,Male,35,Clothing,3,300,900,Middle age
+583,21-06-2023,CUST583,Female,24,Electronics,4,25,100,Young
+584,17-02-2023,CUST584,Female,27,Beauty,4,50,200,Young
+585,01-05-2023,CUST585,Female,24,Clothing,1,25,25,Young
+586,11-12-2023,CUST586,Male,50,Electronics,1,50,50,Old man
+587,08-06-2023,CUST587,Female,40,Beauty,4,300,1200,Middle age
+588,26-04-2023,CUST588,Male,38,Electronics,2,30,60,Middle age
+589,12-04-2023,CUST589,Female,36,Beauty,2,500,1000,Middle age
+590,17-03-2023,CUST590,Male,36,Clothing,3,300,900,Middle age
+591,13-01-2023,CUST591,Male,53,Electronics,4,25,100,Old man
+592,24-01-2023,CUST592,Female,46,Beauty,4,500,2000,Old man
+593,06-05-2023,CUST593,Male,35,Electronics,2,30,60,Middle age
+594,01-09-2023,CUST594,Female,19,Electronics,2,300,600,Young
+595,09-11-2023,CUST595,Female,18,Clothing,4,500,2000,Young
+596,07-02-2023,CUST596,Female,64,Electronics,1,300,300,Old man
+597,22-08-2023,CUST597,Male,22,Beauty,4,300,1200,Young
+598,01-08-2023,CUST598,Male,37,Beauty,4,30,120,Middle age
+599,19-11-2023,CUST599,Female,28,Beauty,2,50,100,Young
+600,22-10-2023,CUST600,Female,59,Beauty,2,500,1000,Old man
+601,10-04-2023,CUST601,Male,19,Clothing,1,30,30,Young
+602,23-12-2023,CUST602,Female,20,Electronics,1,300,300,Young
+603,16-07-2023,CUST603,Female,40,Clothing,3,30,90,Middle age
+604,11-09-2023,CUST604,Female,29,Electronics,4,50,200,Young
+605,24-07-2023,CUST605,Male,37,Electronics,2,500,1000,Middle age
+606,05-05-2023,CUST606,Male,22,Electronics,1,50,50,Young
+607,17-03-2023,CUST607,Male,54,Clothing,3,25,75,Old man
+608,02-12-2023,CUST608,Female,55,Electronics,3,500,1500,Old man
+609,19-12-2023,CUST609,Female,47,Clothing,2,50,100,Old man
+610,03-01-2023,CUST610,Female,26,Beauty,2,300,600,Young
+611,24-02-2023,CUST611,Male,51,Beauty,3,500,1500,Old man
+612,06-08-2023,CUST612,Female,61,Electronics,1,500,500,Old man
+613,23-04-2023,CUST613,Female,52,Clothing,3,30,90,Old man
+614,01-04-2023,CUST614,Female,39,Beauty,4,300,1200,Middle age
+615,23-12-2023,CUST615,Female,61,Clothing,4,25,100,Old man
+616,23-09-2023,CUST616,Male,41,Clothing,2,50,100,Middle age
+617,26-08-2023,CUST617,Male,34,Electronics,1,30,30,Middle age
+618,26-01-2023,CUST618,Female,27,Beauty,1,50,50,Young
+619,13-10-2023,CUST619,Male,47,Electronics,4,25,100,Old man
+620,08-05-2023,CUST620,Male,63,Electronics,3,25,75,Old man
+621,04-03-2023,CUST621,Female,40,Beauty,2,500,1000,Middle age
+622,22-08-2023,CUST622,Female,49,Beauty,3,25,75,Old man
+623,10-03-2023,CUST623,Male,34,Clothing,3,50,150,Middle age
+624,26-08-2023,CUST624,Female,34,Beauty,3,300,900,Middle age
+625,08-12-2023,CUST625,Male,31,Clothing,1,300,300,Middle age
+626,29-09-2023,CUST626,Female,26,Clothing,4,500,2000,Young
+627,14-10-2023,CUST627,Male,57,Clothing,1,50,50,Old man
+628,01-11-2023,CUST628,Female,19,Beauty,4,50,200,Young
+629,12-06-2023,CUST629,Male,62,Electronics,2,25,50,Old man
+630,15-08-2023,CUST630,Male,42,Clothing,2,50,100,Middle age
+631,10-11-2023,CUST631,Male,56,Electronics,3,30,90,Old man
+632,16-09-2023,CUST632,Female,26,Electronics,4,25,100,Young
+633,07-08-2023,CUST633,Male,39,Beauty,4,30,120,Middle age
+634,08-10-2023,CUST634,Male,60,Electronics,4,500,2000,Old man
+635,17-08-2023,CUST635,Female,63,Electronics,3,300,900,Old man
+636,23-03-2023,CUST636,Female,21,Beauty,3,500,1500,Young
+637,01-09-2023,CUST637,Male,43,Clothing,2,300,600,Middle age
+638,19-08-2023,CUST638,Male,46,Electronics,1,500,500,Old man
+639,13-05-2023,CUST639,Female,62,Beauty,4,50,200,Old man
+640,07-05-2023,CUST640,Female,51,Electronics,4,30,120,Old man
+641,23-11-2023,CUST641,Female,40,Electronics,1,300,300,Middle age
+642,22-05-2023,CUST642,Female,54,Clothing,4,25,100,Old man
+643,24-09-2023,CUST643,Female,28,Electronics,3,30,90,Young
+644,06-09-2023,CUST644,Male,23,Beauty,3,25,75,Young
+645,17-11-2023,CUST645,Female,35,Electronics,4,30,120,Middle age
+646,03-05-2023,CUST646,Male,38,Clothing,3,30,90,Middle age
+647,21-05-2023,CUST647,Male,59,Clothing,3,500,1500,Old man
+648,14-08-2023,CUST648,Male,53,Beauty,4,300,1200,Old man
+649,09-02-2023,CUST649,Female,58,Clothing,2,300,600,Old man
+650,01-01-2024,CUST650,Male,55,Electronics,1,30,30,Old man
+651,27-05-2023,CUST651,Male,51,Clothing,3,50,150,Old man
+652,01-05-2023,CUST652,Female,34,Beauty,2,50,100,Middle age
+653,20-05-2023,CUST653,Male,54,Clothing,3,25,75,Old man
+654,21-06-2023,CUST654,Male,42,Clothing,3,25,75,Middle age
+655,13-06-2023,CUST655,Female,55,Clothing,1,500,500,Old man
+656,04-10-2023,CUST656,Male,29,Beauty,3,30,90,Young
+657,11-02-2023,CUST657,Male,40,Clothing,1,25,25,Middle age
+658,12-03-2023,CUST658,Male,59,Clothing,1,25,25,Old man
+659,19-03-2023,CUST659,Female,39,Electronics,1,30,30,Middle age
+660,29-04-2023,CUST660,Female,38,Beauty,2,500,1000,Middle age
+661,16-07-2023,CUST661,Female,44,Clothing,4,25,100,Middle age
+662,22-12-2023,CUST662,Male,48,Beauty,2,500,1000,Old man
+663,20-03-2023,CUST663,Male,23,Clothing,4,300,1200,Young
+664,28-12-2023,CUST664,Female,44,Clothing,4,500,2000,Middle age
+665,20-04-2023,CUST665,Male,57,Clothing,1,50,50,Old man
+666,02-02-2023,CUST666,Male,51,Electronics,3,50,150,Old man
+667,01-08-2023,CUST667,Female,29,Electronics,1,500,500,Young
+668,28-07-2023,CUST668,Female,62,Electronics,3,50,150,Old man
+669,19-06-2023,CUST669,Male,24,Beauty,4,300,1200,Young
+670,05-10-2023,CUST670,Male,27,Beauty,1,30,30,Young
+671,27-08-2023,CUST671,Male,62,Electronics,3,50,150,Old man
+672,01-08-2023,CUST672,Female,34,Beauty,2,50,100,Middle age
+673,01-02-2023,CUST673,Female,43,Clothing,3,500,1500,Middle age
+674,16-04-2023,CUST674,Female,38,Clothing,1,300,300,Middle age
+675,04-08-2023,CUST675,Female,45,Clothing,2,30,60,Middle age
+676,19-07-2023,CUST676,Male,63,Electronics,3,500,1500,Old man
+677,27-10-2023,CUST677,Female,19,Beauty,3,500,1500,Young
+678,23-12-2023,CUST678,Female,60,Electronics,3,300,900,Old man
+679,11-01-2023,CUST679,Female,18,Beauty,3,30,90,Young
+680,22-10-2023,CUST680,Female,53,Clothing,3,300,900,Old man
+681,14-07-2023,CUST681,Female,43,Electronics,2,30,60,Middle age
+682,02-09-2023,CUST682,Male,46,Beauty,4,300,1200,Old man
+683,04-01-2023,CUST683,Male,38,Beauty,2,500,1000,Middle age
+684,30-06-2023,CUST684,Female,28,Clothing,2,500,1000,Young
+685,02-06-2023,CUST685,Male,57,Electronics,2,25,50,Old man
+686,19-07-2023,CUST686,Female,28,Electronics,4,50,200,Young
+687,03-08-2023,CUST687,Female,53,Electronics,1,300,300,Old man
+688,03-10-2023,CUST688,Male,56,Clothing,4,25,100,Old man
+689,07-10-2023,CUST689,Male,57,Electronics,2,50,100,Old man
+690,05-11-2023,CUST690,Female,52,Clothing,3,300,900,Old man
+691,23-04-2023,CUST691,Female,51,Clothing,3,30,90,Old man
+692,07-09-2023,CUST692,Female,64,Clothing,2,50,100,Old man
+693,23-04-2023,CUST693,Male,41,Beauty,3,500,1500,Middle age
+694,20-05-2023,CUST694,Female,39,Electronics,2,25,50,Middle age
+695,12-08-2023,CUST695,Female,22,Electronics,3,50,150,Young
+696,06-09-2023,CUST696,Female,50,Clothing,4,50,200,Old man
+697,15-01-2023,CUST697,Male,53,Clothing,1,500,500,Old man
+698,19-07-2023,CUST698,Female,64,Electronics,1,300,300,Old man
+699,22-06-2023,CUST699,Female,37,Clothing,4,30,120,Middle age
+700,09-12-2023,CUST700,Male,36,Electronics,4,500,2000,Middle age
+701,14-12-2023,CUST701,Female,52,Beauty,2,30,60,Old man
+702,27-07-2023,CUST702,Female,60,Clothing,2,300,600,Old man
+703,26-03-2023,CUST703,Male,34,Electronics,2,50,100,Middle age
+704,28-08-2023,CUST704,Female,62,Clothing,3,30,90,Old man
+705,07-03-2023,CUST705,Male,60,Electronics,2,25,50,Old man
+706,15-11-2023,CUST706,Male,51,Electronics,4,25,100,Old man
+707,01-10-2023,CUST707,Female,26,Clothing,1,500,500,Young
+708,14-01-2023,CUST708,Female,43,Beauty,3,300,900,Middle age
+709,21-07-2023,CUST709,Female,19,Electronics,2,500,1000,Young
+710,31-10-2023,CUST710,Female,26,Electronics,3,500,1500,Young
+711,16-10-2023,CUST711,Male,26,Electronics,3,500,1500,Young
+712,06-12-2023,CUST712,Female,57,Beauty,2,25,50,Old man
+713,14-01-2023,CUST713,Male,34,Beauty,3,25,75,Middle age
+714,12-02-2023,CUST714,Female,18,Clothing,1,500,500,Young
+715,26-11-2023,CUST715,Female,42,Beauty,4,25,100,Middle age
+716,08-08-2023,CUST716,Female,60,Clothing,4,300,1200,Old man
+717,11-03-2023,CUST717,Male,57,Clothing,1,500,500,Old man
+718,25-08-2023,CUST718,Female,59,Beauty,3,25,75,Old man
+719,04-04-2023,CUST719,Female,42,Clothing,2,30,60,Middle age
+720,26-01-2023,CUST720,Female,56,Beauty,3,500,1500,Old man
+721,14-05-2023,CUST721,Female,52,Clothing,1,500,500,Old man
+722,14-07-2023,CUST722,Male,20,Beauty,3,300,900,Young
+723,17-06-2023,CUST723,Female,54,Beauty,4,50,200,Old man
+724,19-04-2023,CUST724,Male,61,Clothing,3,50,150,Old man
+725,21-08-2023,CUST725,Male,61,Electronics,1,300,300,Old man
+726,17-06-2023,CUST726,Male,47,Clothing,4,300,1200,Old man
+727,22-06-2023,CUST727,Male,55,Beauty,3,300,900,Old man
+728,14-07-2023,CUST728,Male,51,Electronics,3,50,150,Old man
+729,23-05-2023,CUST729,Male,29,Clothing,4,300,1200,Young
+730,04-08-2023,CUST730,Female,36,Clothing,2,25,50,Middle age
+731,10-05-2023,CUST731,Male,54,Clothing,4,500,2000,Old man
+732,11-02-2023,CUST732,Male,61,Electronics,2,500,1000,Old man
+733,29-08-2023,CUST733,Male,34,Beauty,1,30,30,Middle age
+734,10-01-2023,CUST734,Female,27,Clothing,1,30,30,Young
+735,04-10-2023,CUST735,Female,64,Clothing,4,500,2000,Old man
+736,27-01-2023,CUST736,Male,29,Clothing,4,25,100,Young
+737,29-06-2023,CUST737,Female,33,Clothing,1,50,50,Middle age
+738,25-04-2023,CUST738,Male,41,Clothing,2,50,100,Middle age
+739,29-11-2023,CUST739,Male,36,Beauty,1,25,25,Middle age
+740,05-02-2023,CUST740,Female,25,Beauty,4,50,200,Young
+741,30-11-2023,CUST741,Male,48,Clothing,1,300,300,Old man
+742,21-01-2023,CUST742,Female,38,Electronics,4,500,2000,Middle age
+743,16-01-2023,CUST743,Female,34,Beauty,4,500,2000,Middle age
+744,07-05-2023,CUST744,Male,40,Electronics,1,25,25,Middle age
+745,13-04-2023,CUST745,Male,54,Beauty,2,50,100,Old man
+746,11-01-2023,CUST746,Female,33,Clothing,3,30,90,Middle age
+747,15-11-2023,CUST747,Male,23,Beauty,1,30,30,Young
+748,20-03-2023,CUST748,Male,25,Clothing,3,50,150,Young
+749,03-05-2023,CUST749,Male,42,Beauty,1,30,30,Middle age
+750,06-03-2023,CUST750,Female,35,Clothing,3,25,75,Middle age
+751,31-08-2023,CUST751,Female,42,Clothing,2,25,50,Middle age
+752,09-12-2023,CUST752,Male,29,Clothing,2,50,100,Young
+753,28-02-2023,CUST753,Female,32,Clothing,1,30,30,Middle age
+754,16-10-2023,CUST754,Female,43,Electronics,4,25,100,Middle age
+755,22-04-2023,CUST755,Female,58,Clothing,3,25,75,Old man
+756,27-08-2023,CUST756,Female,62,Electronics,4,300,1200,Old man
+757,25-12-2023,CUST757,Female,43,Electronics,4,300,1200,Middle age
+758,12-05-2023,CUST758,Male,64,Clothing,4,25,100,Old man
+759,08-07-2023,CUST759,Male,49,Electronics,2,50,100,Old man
+760,27-03-2023,CUST760,Male,27,Beauty,1,500,500,Young
+761,07-11-2023,CUST761,Female,33,Clothing,1,500,500,Middle age
+762,07-11-2023,CUST762,Female,24,Electronics,2,25,50,Young
+763,28-02-2023,CUST763,Male,34,Clothing,2,25,50,Middle age
+764,25-03-2023,CUST764,Female,40,Clothing,1,25,25,Middle age
+765,09-06-2023,CUST765,Male,43,Clothing,4,50,200,Middle age
+766,25-02-2023,CUST766,Male,38,Electronics,3,300,900,Middle age
+767,24-10-2023,CUST767,Male,39,Beauty,3,25,75,Middle age
+768,14-01-2023,CUST768,Female,24,Beauty,3,25,75,Young
+769,09-06-2023,CUST769,Female,31,Electronics,4,30,120,Middle age
+770,22-10-2023,CUST770,Male,32,Clothing,1,50,50,Middle age
+771,13-12-2023,CUST771,Male,24,Electronics,2,25,50,Young
+772,12-07-2023,CUST772,Male,26,Electronics,1,30,30,Young
+773,23-07-2023,CUST773,Male,25,Electronics,4,500,2000,Young
+774,12-04-2023,CUST774,Female,40,Clothing,2,25,50,Middle age
+775,08-02-2023,CUST775,Female,46,Electronics,4,25,100,Old man
+776,31-10-2023,CUST776,Male,35,Clothing,3,30,90,Middle age
+777,20-12-2023,CUST777,Male,48,Electronics,3,50,150,Old man
+778,18-11-2023,CUST778,Female,47,Beauty,4,25,100,Old man
+779,05-05-2023,CUST779,Female,56,Electronics,2,500,1000,Old man
+780,22-02-2023,CUST780,Male,52,Electronics,2,25,50,Old man
+781,23-12-2023,CUST781,Male,35,Beauty,1,500,500,Middle age
+782,04-06-2023,CUST782,Male,59,Clothing,3,300,900,Old man
+783,17-12-2023,CUST783,Female,56,Clothing,1,300,300,Old man
+784,04-11-2023,CUST784,Female,34,Electronics,1,500,500,Middle age
+785,03-03-2023,CUST785,Female,31,Beauty,4,50,200,Middle age
+786,17-10-2023,CUST786,Male,48,Clothing,4,25,100,Old man
+787,22-01-2023,CUST787,Male,41,Electronics,1,25,25,Middle age
+788,27-06-2023,CUST788,Female,52,Beauty,3,300,900,Old man
+789,30-09-2023,CUST789,Female,61,Clothing,4,500,2000,Old man
+790,08-08-2023,CUST790,Male,62,Clothing,1,25,25,Old man
+791,05-12-2023,CUST791,Female,51,Beauty,1,25,25,Old man
+792,09-07-2023,CUST792,Female,20,Beauty,1,50,50,Young
+793,05-02-2023,CUST793,Male,54,Beauty,1,30,30,Old man
+794,17-09-2023,CUST794,Female,60,Beauty,1,300,300,Old man
+795,28-11-2023,CUST795,Male,57,Electronics,1,300,300,Old man
+796,24-06-2023,CUST796,Male,43,Beauty,4,30,120,Middle age
+797,07-01-2023,CUST797,Male,40,Clothing,3,25,75,Middle age
+798,04-08-2023,CUST798,Male,61,Clothing,1,50,50,Old man
+799,08-09-2023,CUST799,Male,56,Electronics,2,50,100,Old man
+800,24-02-2023,CUST800,Male,32,Clothing,4,300,1200,Middle age
+801,10-08-2023,CUST801,Male,21,Clothing,4,50,200,Young
+802,05-07-2023,CUST802,Female,46,Beauty,1,30,30,Old man
+803,22-11-2023,CUST803,Male,39,Clothing,4,25,100,Middle age
+804,24-08-2023,CUST804,Male,42,Electronics,1,30,30,Middle age
+805,29-12-2023,CUST805,Female,30,Beauty,3,500,1500,Young
+806,20-03-2023,CUST806,Female,35,Beauty,3,300,900,Middle age
+807,11-08-2023,CUST807,Female,50,Electronics,4,50,200,Old man
+808,01-04-2023,CUST808,Male,33,Beauty,4,500,2000,Middle age
+809,25-09-2023,CUST809,Female,62,Beauty,2,50,100,Old man
+810,30-11-2023,CUST810,Male,59,Electronics,4,25,100,Old man
+811,19-05-2023,CUST811,Male,61,Beauty,2,25,50,Old man
+812,12-11-2023,CUST812,Male,19,Electronics,3,25,75,Young
+813,03-10-2023,CUST813,Male,52,Electronics,3,50,150,Old man
+814,05-09-2023,CUST814,Female,59,Clothing,1,500,500,Old man
+815,27-08-2023,CUST815,Female,51,Clothing,3,25,75,Old man
+816,12-08-2023,CUST816,Male,47,Beauty,2,500,1000,Old man
+817,31-10-2023,CUST817,Male,30,Beauty,4,50,200,Young
+818,18-05-2023,CUST818,Male,30,Electronics,1,500,500,Young
+819,15-06-2023,CUST819,Female,35,Beauty,2,50,100,Middle age
+820,06-05-2023,CUST820,Male,49,Electronics,4,50,200,Old man
+821,14-02-2023,CUST821,Male,49,Electronics,1,300,300,Old man
+822,23-05-2023,CUST822,Female,52,Beauty,3,50,150,Old man
+823,19-08-2023,CUST823,Female,56,Electronics,2,50,100,Old man
+824,05-05-2023,CUST824,Male,63,Clothing,4,30,120,Old man
+825,26-08-2023,CUST825,Female,46,Beauty,1,25,25,Old man
+826,19-10-2023,CUST826,Female,46,Clothing,1,300,300,Old man
+827,09-11-2023,CUST827,Male,61,Beauty,3,300,900,Old man
+828,09-12-2023,CUST828,Female,33,Electronics,4,300,1200,Middle age
+829,14-07-2023,CUST829,Male,61,Beauty,3,30,90,Old man
+830,22-06-2023,CUST830,Female,64,Clothing,3,50,150,Old man
+831,15-01-2023,CUST831,Male,27,Electronics,4,25,100,Young
+832,11-09-2023,CUST832,Male,47,Beauty,4,500,2000,Old man
+833,16-06-2023,CUST833,Male,42,Beauty,4,50,200,Middle age
+834,04-04-2023,CUST834,Female,56,Beauty,2,30,60,Old man
+835,07-09-2023,CUST835,Male,37,Clothing,4,50,200,Middle age
+836,19-04-2023,CUST836,Female,22,Clothing,1,50,50,Young
+837,01-07-2023,CUST837,Male,18,Beauty,3,30,90,Young
+838,13-05-2023,CUST838,Male,47,Electronics,2,300,600,Old man
+839,24-06-2023,CUST839,Female,20,Electronics,4,300,1200,Young
+840,24-05-2023,CUST840,Male,62,Clothing,2,25,50,Old man
+841,02-11-2023,CUST841,Male,31,Electronics,4,25,100,Middle age
+842,26-12-2023,CUST842,Female,47,Clothing,2,300,600,Old man
+843,22-05-2023,CUST843,Male,21,Beauty,3,500,1500,Young
+844,12-10-2023,CUST844,Male,35,Clothing,3,50,150,Middle age
+845,06-01-2023,CUST845,Male,54,Clothing,1,500,500,Old man
+846,22-09-2023,CUST846,Male,42,Beauty,1,50,50,Middle age
+847,08-04-2023,CUST847,Female,18,Electronics,4,300,1200,Young
+848,13-02-2023,CUST848,Female,63,Clothing,3,25,75,Old man
+849,04-05-2023,CUST849,Male,32,Clothing,2,25,50,Middle age
+850,28-07-2023,CUST850,Female,26,Beauty,2,500,1000,Young
+851,08-09-2023,CUST851,Male,32,Electronics,2,25,50,Middle age
+852,12-10-2023,CUST852,Female,41,Clothing,1,300,300,Middle age
+853,04-05-2023,CUST853,Male,21,Beauty,2,500,1000,Young
+854,20-12-2023,CUST854,Male,29,Clothing,1,50,50,Young
+855,01-09-2023,CUST855,Male,54,Beauty,1,25,25,Old man
+856,27-11-2023,CUST856,Male,54,Electronics,4,30,120,Old man
+857,31-12-2023,CUST857,Male,60,Electronics,2,25,50,Old man
+858,09-09-2023,CUST858,Male,23,Electronics,2,50,100,Young
+859,18-08-2023,CUST859,Female,56,Electronics,3,500,1500,Old man
+860,09-01-2023,CUST860,Male,63,Clothing,4,50,200,Old man
+861,17-02-2023,CUST861,Female,41,Clothing,3,30,90,Middle age
+862,31-05-2023,CUST862,Male,28,Electronics,4,300,1200,Young
+863,24-04-2023,CUST863,Female,30,Electronics,2,25,50,Young
+864,27-07-2023,CUST864,Female,51,Electronics,1,500,500,Old man
+865,21-12-2023,CUST865,Female,42,Clothing,1,300,300,Middle age
+866,05-05-2023,CUST866,Male,24,Electronics,1,50,50,Young
+867,06-06-2023,CUST867,Male,21,Electronics,1,500,500,Young
+868,06-12-2023,CUST868,Female,25,Electronics,1,300,300,Young
+869,25-10-2023,CUST869,Male,37,Beauty,3,500,1500,Middle age
+870,08-07-2023,CUST870,Female,46,Electronics,4,30,120,Old man
+871,31-08-2023,CUST871,Male,62,Beauty,2,30,60,Old man
+872,11-10-2023,CUST872,Female,63,Beauty,3,25,75,Old man
+873,29-09-2023,CUST873,Female,27,Electronics,4,25,100,Young
+874,26-06-2023,CUST874,Male,60,Beauty,1,30,30,Old man
+875,06-08-2023,CUST875,Female,51,Electronics,4,500,2000,Old man
+876,09-10-2023,CUST876,Male,43,Clothing,4,30,120,Middle age
+877,19-06-2023,CUST877,Female,58,Clothing,1,25,25,Old man
+878,30-06-2023,CUST878,Female,20,Clothing,1,30,30,Young
+879,26-12-2023,CUST879,Male,23,Clothing,1,30,30,Young
+880,21-08-2023,CUST880,Male,22,Beauty,2,500,1000,Young
+881,19-05-2023,CUST881,Male,22,Electronics,1,300,300,Young
+882,06-06-2023,CUST882,Female,64,Electronics,2,25,50,Old man
+883,09-05-2023,CUST883,Male,40,Electronics,1,500,500,Middle age
+884,29-04-2023,CUST884,Female,26,Clothing,2,30,60,Young
+885,03-03-2023,CUST885,Female,52,Clothing,4,30,120,Old man
+886,09-04-2023,CUST886,Male,37,Electronics,3,300,900,Middle age
+887,11-06-2023,CUST887,Male,59,Clothing,4,25,100,Old man
+888,03-03-2023,CUST888,Female,52,Electronics,4,25,100,Old man
+889,02-10-2023,CUST889,Female,35,Electronics,1,50,50,Middle age
+890,20-12-2023,CUST890,Male,34,Electronics,2,25,50,Middle age
+891,05-04-2023,CUST891,Male,41,Electronics,3,300,900,Middle age
+892,09-04-2023,CUST892,Male,20,Electronics,1,50,50,Young
+893,21-04-2023,CUST893,Male,49,Electronics,1,50,50,Old man
+894,05-09-2023,CUST894,Male,52,Electronics,1,30,30,Old man
+895,22-05-2023,CUST895,Female,55,Clothing,4,30,120,Old man
+896,29-10-2023,CUST896,Female,30,Electronics,2,25,50,Young
+897,26-09-2023,CUST897,Female,64,Electronics,2,50,100,Old man
+898,02-11-2023,CUST898,Female,42,Clothing,3,30,90,Middle age
+899,25-05-2023,CUST899,Male,26,Clothing,2,300,600,Young
+900,21-02-2023,CUST900,Male,21,Clothing,2,30,60,Young
+901,10-04-2023,CUST901,Male,31,Electronics,1,30,30,Middle age
+902,01-06-2023,CUST902,Female,54,Beauty,1,50,50,Old man
+903,27-04-2023,CUST903,Female,51,Beauty,4,50,200,Old man
+904,04-07-2023,CUST904,Male,28,Clothing,1,500,500,Young
+905,02-04-2023,CUST905,Male,58,Beauty,1,300,300,Old man
+906,04-06-2023,CUST906,Female,20,Clothing,1,50,50,Young
+907,08-01-2023,CUST907,Female,45,Electronics,1,25,25,Middle age
+908,29-12-2023,CUST908,Male,46,Beauty,4,300,1200,Old man
+909,01-10-2023,CUST909,Male,26,Electronics,1,300,300,Young
+910,06-03-2023,CUST910,Female,20,Beauty,3,50,150,Young
+911,21-05-2023,CUST911,Male,42,Electronics,3,300,900,Middle age
+912,24-01-2023,CUST912,Male,51,Beauty,3,50,150,Old man
+913,28-01-2023,CUST913,Male,29,Electronics,3,30,90,Young
+914,11-10-2023,CUST914,Female,59,Electronics,1,500,500,Old man
+915,30-05-2023,CUST915,Female,26,Beauty,3,30,90,Young
+916,24-12-2023,CUST916,Female,32,Electronics,1,50,50,Middle age
+917,06-03-2023,CUST917,Female,57,Electronics,4,50,200,Old man
+918,23-11-2023,CUST918,Female,42,Electronics,3,30,90,Middle age
+919,09-09-2023,CUST919,Female,22,Beauty,2,25,50,Young
+920,22-02-2023,CUST920,Female,28,Beauty,3,25,75,Young
+921,07-01-2023,CUST921,Male,51,Electronics,3,25,75,Old man
+922,21-10-2023,CUST922,Male,41,Electronics,1,50,50,Middle age
+923,26-05-2023,CUST923,Male,32,Beauty,3,300,900,Middle age
+924,29-08-2023,CUST924,Male,55,Beauty,2,50,100,Old man
+925,03-09-2023,CUST925,Male,25,Electronics,1,300,300,Young
+926,14-08-2023,CUST926,Male,22,Electronics,1,30,30,Young
+927,24-06-2023,CUST927,Male,43,Electronics,4,500,2000,Middle age
+928,05-04-2023,CUST928,Female,35,Clothing,4,300,1200,Middle age
+929,27-01-2023,CUST929,Female,23,Beauty,3,25,75,Young
+930,10-05-2023,CUST930,Male,54,Clothing,4,50,200,Old man
+931,02-09-2023,CUST931,Male,30,Beauty,4,30,120,Young
+932,28-02-2023,CUST932,Female,45,Beauty,4,25,100,Middle age
+933,03-02-2023,CUST933,Male,22,Beauty,1,30,30,Young
+934,25-07-2023,CUST934,Male,30,Beauty,1,500,500,Young
+935,09-09-2023,CUST935,Female,34,Beauty,1,50,50,Middle age
+936,07-02-2023,CUST936,Male,57,Beauty,4,50,200,Old man
+937,23-10-2023,CUST937,Female,62,Beauty,1,500,500,Old man
+938,19-11-2023,CUST938,Male,49,Clothing,4,50,200,Old man
+939,18-12-2023,CUST939,Female,46,Electronics,1,300,300,Old man
+940,28-01-2023,CUST940,Female,20,Electronics,1,30,30,Young
+941,19-03-2023,CUST941,Female,57,Clothing,2,25,50,Old man
+942,18-03-2023,CUST942,Male,51,Clothing,3,500,1500,Old man
+943,16-10-2023,CUST943,Female,57,Clothing,4,300,1200,Old man
+944,05-06-2023,CUST944,Male,44,Clothing,2,25,50,Middle age
+945,13-02-2023,CUST945,Male,30,Beauty,1,25,25,Young
+946,08-05-2023,CUST946,Male,62,Electronics,4,500,2000,Old man
+947,02-03-2023,CUST947,Male,50,Beauty,1,300,300,Old man
+948,13-10-2023,CUST948,Female,23,Electronics,3,25,75,Young
+949,02-08-2023,CUST949,Female,41,Electronics,2,25,50,Middle age
+950,07-11-2023,CUST950,Male,36,Clothing,3,300,900,Middle age
+951,02-11-2023,CUST951,Male,33,Beauty,2,50,100,Middle age
+952,13-11-2023,CUST952,Female,57,Clothing,1,25,25,Old man
+953,26-04-2023,CUST953,Male,45,Beauty,3,30,90,Middle age
+954,25-09-2023,CUST954,Female,50,Electronics,3,300,900,Old man
+955,14-07-2023,CUST955,Male,58,Clothing,1,25,25,Old man
+956,19-08-2023,CUST956,Male,30,Clothing,3,500,1500,Young
+957,15-08-2023,CUST957,Female,60,Electronics,4,30,120,Old man
+958,02-06-2023,CUST958,Male,62,Electronics,2,25,50,Old man
+959,29-10-2023,CUST959,Female,42,Electronics,2,30,60,Middle age
+960,08-08-2023,CUST960,Male,59,Clothing,2,30,60,Old man
+961,06-06-2023,CUST961,Male,53,Beauty,4,50,200,Old man
+962,19-10-2023,CUST962,Male,44,Clothing,2,30,60,Middle age
+963,14-11-2023,CUST963,Female,55,Beauty,1,50,50,Old man
+964,31-01-2023,CUST964,Male,24,Clothing,3,300,900,Young
+965,09-11-2023,CUST965,Male,22,Clothing,4,50,200,Young
+966,20-02-2023,CUST966,Male,60,Electronics,2,500,1000,Old man
+967,17-04-2023,CUST967,Male,62,Beauty,1,25,25,Old man
+968,17-11-2023,CUST968,Female,48,Clothing,3,300,900,Old man
+969,19-04-2023,CUST969,Female,40,Clothing,3,300,900,Middle age
+970,16-05-2023,CUST970,Male,59,Electronics,4,500,2000,Old man
+971,05-12-2023,CUST971,Female,27,Electronics,4,50,200,Young
+972,11-02-2023,CUST972,Male,49,Beauty,4,25,100,Old man
+973,22-03-2023,CUST973,Male,60,Clothing,1,50,50,Old man
+974,03-05-2023,CUST974,Male,47,Beauty,1,30,30,Old man
+975,30-03-2023,CUST975,Female,56,Clothing,4,50,200,Old man
+976,10-10-2023,CUST976,Female,48,Beauty,2,300,600,Old man
+977,08-02-2023,CUST977,Female,35,Electronics,3,25,75,Middle age
+978,22-03-2023,CUST978,Female,53,Clothing,3,50,150,Old man
+979,02-01-2023,CUST979,Female,19,Beauty,1,25,25,Young
+980,29-07-2023,CUST980,Female,31,Electronics,3,25,75,Middle age
+981,19-08-2023,CUST981,Female,30,Electronics,2,30,60,Young
+982,19-12-2023,CUST982,Female,46,Beauty,3,30,90,Old man
+983,01-11-2023,CUST983,Female,29,Clothing,1,300,300,Young
+984,29-08-2023,CUST984,Male,56,Clothing,1,500,500,Old man
+985,30-05-2023,CUST985,Female,19,Electronics,2,25,50,Young
+986,17-01-2023,CUST986,Female,49,Clothing,2,500,1000,Old man
+987,29-04-2023,CUST987,Female,30,Clothing,3,300,900,Young
+988,28-05-2023,CUST988,Female,63,Clothing,3,25,75,Old man
+989,28-12-2023,CUST989,Female,44,Electronics,1,25,25,Middle age
+990,25-05-2023,CUST990,Female,58,Beauty,2,500,1000,Old man
+991,26-12-2023,CUST991,Female,34,Clothing,2,50,100,Middle age
+992,21-08-2023,CUST992,Female,57,Electronics,2,30,60,Old man
+993,06-02-2023,CUST993,Female,48,Electronics,3,50,150,Old man
+994,18-12-2023,CUST994,Female,51,Beauty,2,500,1000,Old man
+995,30-04-2023,CUST995,Female,41,Clothing,1,30,30,Middle age
+996,16-05-2023,CUST996,Male,62,Clothing,1,50,50,Old man
+997,17-11-2023,CUST997,Male,52,Beauty,3,30,90,Old man
+998,29-10-2023,CUST998,Female,23,Beauty,4,25,100,Young
+999,05-12-2023,CUST999,Female,36,Electronics,3,50,150,Middle age
+1000,12-04-2023,CUST1000,Male,47,Electronics,4,30,120,Old man
